@@ -52,6 +52,7 @@
 对stationID和lineID重新编码：按照staionID分组后的平均人流量对站点进行排序，将stationID按照大小顺序重新编码。lineID同样操作。
 
 空间特征挖掘空间还很大，没有时间了。
+可以尝试DeepWalk算法做embedding
 
 
 
